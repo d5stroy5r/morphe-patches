@@ -42,7 +42,12 @@ Nếu bạn là người dùng YouTube Premium, thì cài đặt này có thể 
 
 Có thể gặp lỗi khi phát."</string>
   <string name="morphe_spoof_video_streams_user_dialog_message">Tắt cài đặt này có thể gây ra lỗi khi phát.</string>
+  <!-- "Spoof video streams" must use the same translation as morphe_spoof_video_streams_title.
+         "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
   <string name="morphe_spoof_video_streams_client_type_title">Ứng dụng khách mặc định</string>
+  <!-- Ensure this translation matches the translation of morphe_spoof_video_streams_no_clients_suggest_vr_toast -->
+  <!-- "Default client" must be the same translated text as morphe_spoof_video_streams_client_type_title -->
+  <!-- "Open website" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website -->
   <!-- misc.audio.forceOriginalAudioPatch -->
   <string name="morphe_force_original_audio_title">Buộc ngôn ngữ âm thanh gốc</string>
   <string name="morphe_force_original_audio_summary_on">Đang dùng ngôn ngữ âm thanh gốc</string>

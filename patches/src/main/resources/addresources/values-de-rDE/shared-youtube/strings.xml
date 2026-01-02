@@ -42,7 +42,12 @@ Wenn Sie ein YouTube Premium-Nutzer sind, ist diese Einstellung möglicherweise 
 
 Die Wiedergabe funktioniert möglicherweise nicht"</string>
   <string name="morphe_spoof_video_streams_user_dialog_message">Das Deaktivieren dieser Einstellung kann Wiedergabeprobleme verursachen.</string>
+  <!-- "Spoof video streams" must use the same translation as morphe_spoof_video_streams_title.
+         "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
   <string name="morphe_spoof_video_streams_client_type_title">Standard-Client</string>
+  <!-- Ensure this translation matches the translation of morphe_spoof_video_streams_no_clients_suggest_vr_toast -->
+  <!-- "Default client" must be the same translated text as morphe_spoof_video_streams_client_type_title -->
+  <!-- "Open website" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website -->
   <!-- misc.audio.forceOriginalAudioPatch -->
   <string name="morphe_force_original_audio_title">Original Audio erzwingen</string>
   <string name="morphe_force_original_audio_summary_on">Original-Audiosprache verwenden</string>

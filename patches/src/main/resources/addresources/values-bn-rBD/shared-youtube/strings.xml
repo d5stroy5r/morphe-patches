@@ -42,7 +42,12 @@ Second \"item\" text"</string>
 
 প্লেব্যাক কাজ নাও করতে পারে"</string>
   <string name="morphe_spoof_video_streams_user_dialog_message">এই সেটিং বন্ধ করলে প্লেব্যাক সমস্যা হতে পারে।</string>
+  <!-- "Spoof video streams" must use the same translation as morphe_spoof_video_streams_title.
+         "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
   <string name="morphe_spoof_video_streams_client_type_title">ডিফল্ট ক্লায়েন্ট</string>
+  <!-- Ensure this translation matches the translation of morphe_spoof_video_streams_no_clients_suggest_vr_toast -->
+  <!-- "Default client" must be the same translated text as morphe_spoof_video_streams_client_type_title -->
+  <!-- "Open website" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website -->
   <!-- misc.audio.forceOriginalAudioPatch -->
   <string name="morphe_force_original_audio_title">মূল অডিও ভাষা বলপূর্বক চালু করুন</string>
   <string name="morphe_force_original_audio_summary_on">মূল অডিও ভাষা ব্যবহার করা হচ্ছে</string>

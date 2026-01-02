@@ -42,7 +42,12 @@ Ha Ön YouTube Premium felhasználó, ez a beállítás nem feltétlenül szüks
 
 A lejátszás nem működhet"</string>
   <string name="morphe_spoof_video_streams_user_dialog_message">Ennek a beállításnak a kikapcsolása lejátszási problémákat okozhat.</string>
+  <!-- "Spoof video streams" must use the same translation as morphe_spoof_video_streams_title.
+         "Sign in to Android VR" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_about_title -->
   <string name="morphe_spoof_video_streams_client_type_title">Alapértelmezett kliens</string>
+  <!-- Ensure this translation matches the translation of morphe_spoof_video_streams_no_clients_suggest_vr_toast -->
+  <!-- "Default client" must be the same translated text as morphe_spoof_video_streams_client_type_title -->
+  <!-- "Open website" must use the same translation as morphe_spoof_video_streams_sign_in_android_vr_activation_code_dialog_open_website -->
   <!-- misc.audio.forceOriginalAudioPatch -->
   <string name="morphe_force_original_audio_title">Eredeti hang kikényszerítése</string>
   <string name="morphe_force_original_audio_summary_on">Eredeti hang használata a hang nyelvén</string>

@@ -318,8 +318,8 @@ Second \"item\" text"</string>
   <string name="morphe_hide_keyword_toast_invalid_broad">키워드가 모든 동영상을 숨길 것입니다: %s</string>
   <!-- ad.general.hideAdsResourcePatch -->
   <string name="morphe_hide_creator_store_shelf_title">판매자 스토어 선반 숨기기</string>
-  <string name="morphe_hide_creator_store_shelf_summary_on">동영상 플레이어 아래의 크리에이터 스토어 선반이 숨겨졌습니다</string>
-  <string name="morphe_hide_creator_store_shelf_summary_off">동영상 플레이어 아래의 크리에이터 스토어 선반이 표시됩니다</string>
+  <string name="morphe_hide_creator_store_shelf_summary_on">판매자(크리에이터명) 스토어 선반이 숨겨집니다</string>
+  <string name="morphe_hide_creator_store_shelf_summary_off">판매자(크리에이터명) 스토어 선반이 표시됩니다</string>
   <string name="morphe_hide_end_screen_store_banner_title">최종 화면 스토어 배너 숨기기</string>
   <string name="morphe_hide_end_screen_store_banner_summary_on">최종 화면에서 스토어 배너가 숨겨집니다</string>
   <string name="morphe_hide_end_screen_store_banner_summary_off">최종 화면에서 스토어 배너가 표시됩니다</string>
@@ -350,7 +350,8 @@ Second \"item\" text"</string>
   <string name="morphe_hide_youtube_premium_promotions_title">YouTube Premium 프로모션 숨기기</string>
   <string name="morphe_hide_youtube_premium_promotions_summary_on">"YouTube Premium 프로모션이 숨겨집니다
 
-제한사항: YouTube Doodles 페이지를 사용할 수 없습니다"</string>
+제한 사항:
+• YouTube Doodles 페이지를 사용할 수 없습니다"</string>
   <string name="morphe_hide_youtube_premium_promotions_summary_off">YouTube Premium 프로모션이 표시됩니다</string>
   <!-- ad.video.videoAdsPatch -->
   <string name="morphe_hide_video_ads_title">동영상 광고 숨기기</string>
@@ -369,7 +370,7 @@ Second \"item\" text"</string>
   <string name="morphe_remove_viewer_discretion_dialog_title">시청 경고 다이얼로그 삭제하기</string>
   <string name="morphe_remove_viewer_discretion_dialog_summary_on">일부 동영상을 시청하기 전에 표시되는 시청 경고 다이얼로그를 삭제합니다</string>
   <string name="morphe_remove_viewer_discretion_dialog_summary_off">일부 동영상을 시청하기 전에 표시되는 시청 경고 다이얼로그를 삭제하지 않습니다</string>
-  <string name="morphe_remove_viewer_discretion_dialog_user_dialog_message">이는 연령 제한을 우회하는 것이 아니라 자동으로 수락하는 것입니다.</string>
+  <string name="morphe_remove_viewer_discretion_dialog_user_dialog_message">이 설정은 다이얼로그를 자동으로 허용하기만 하며 연령 제한(성인인증 절차)을 우회할 수 없습니다.</string>
   <!-- layout.hide.signintotv.disableSignInToTvPopupPatch -->
   <string name="morphe_disable_signin_to_tv_popup_title">\'TV에 로그인\' 팝업 비활성화하기</string>
   <string name="morphe_disable_signin_to_tv_popup_summary_on">\'TV에 로그인\' 팝업을 비활성화합니다</string>
@@ -461,11 +462,11 @@ Second \"item\" text"</string>
   <string name="morphe_hide_buttons_screen_title">동작 버튼</string>
   <string name="morphe_hide_buttons_screen_summary">플레이어 하단에서 동작 버튼을 숨기거나 표시할 수 있습니다</string>
   <string name="morphe_disable_like_subscribe_glow_title">빛나는 \'좋아요\' / \'구독\' 비활성화하기</string>
-  <string name="morphe_disable_like_subscribe_glow_summary_on">언급 시 \'좋아요\' 및 \'구독\' 버튼에 빛이 나지 않음</string>
-  <string name="morphe_disable_like_subscribe_glow_summary_off">언급 시 \'좋아요\' 및 \'구독\' 버튼에 빛이 남</string>
-  <string name="morphe_hide_like_dislike_button_title">\'좋아요\' 및 \'싫어요\' 버튼 숨기기</string>
-  <string name="morphe_hide_like_dislike_button_summary_on">\'좋아요\' 및 \'싫어요\' 버튼이 숨겨집니다</string>
-  <string name="morphe_hide_like_dislike_button_summary_off">\'좋아요\' 및 \'싫어요\' 버튼이 표시됩니다</string>
+  <string name="morphe_disable_like_subscribe_glow_summary_on">동영상에서 \'Like (좋아요)\' 또는 \'Subscribe (구독)\' 버튼이 언급되었을 때, 해당 버튼에 빛나는 애니메이션을 적용하지 않습니다</string>
+  <string name="morphe_disable_like_subscribe_glow_summary_off">동영상에서 \'Like (좋아요)\' 또는 \'Subscribe (구독)\' 버튼이 언급되었을 때, 해당 버튼에 빛나는 애니메이션을 적용합니다</string>
+  <string name="morphe_hide_like_dislike_button_title">좋아요 &amp; 싫어요 숨기기</string>
+  <string name="morphe_hide_like_dislike_button_summary_on">좋아요 &amp; 싫어요 버튼이 숨겨집니다</string>
+  <string name="morphe_hide_like_dislike_button_summary_off">좋아요 &amp; 싫어요 버튼이 표시됩니다</string>
   <!-- 'Share' should be translated with the same localized wording that YouTube displays. -->
   <string name="morphe_hide_share_button_title">공유 숨기기</string>
   <string name="morphe_hide_share_button_summary_on">공유 버튼이 숨겨집니다</string>
@@ -557,9 +558,9 @@ Second \"item\" text"</string>
   <string name="morphe_hide_navigation_button_labels_title">하단바 버튼 라벨 숨기기</string>
   <string name="morphe_hide_navigation_button_labels_summary_on">라벨이 숨겨집니다</string>
   <string name="morphe_hide_navigation_button_labels_summary_off">라벨이 표시됩니다</string>
-  <string name="morphe_navigation_bar_animations_title">탐색 모음 애니메이션 사용</string>
-  <string name="morphe_navigation_bar_animations_summary_on">탐색 전환에 애니메이션 적용</string>
-  <string name="morphe_navigation_bar_animations_summary_off">탐색 전환에 애니메이션 미적용</string>
+  <string name="morphe_navigation_bar_animations_title">하단바 애니메이션 활성화하기</string>
+  <string name="morphe_navigation_bar_animations_summary_on">하단바 전환 애니메이션을 활성화합니다</string>
+  <string name="morphe_navigation_bar_animations_summary_off">하단바 전환 애니메이션을 비활성화합니다</string>
   <string name="morphe_disable_translucent_status_bar_title">반투명 상태바 비활성화하기</string>
   <string name="morphe_disable_translucent_status_bar_summary_on">상태바가 불투명합니다</string>
   <string name="morphe_disable_translucent_status_bar_summary_off">상태바가 불투명하거나 반투명합니다</string>
@@ -596,9 +597,9 @@ Second \"item\" text"</string>
   <string name="morphe_hide_player_flyout_stable_volume_summary_off">안정적인 볼륨 메뉴가 표시됩니다</string>
   <string name="morphe_hide_player_flyout_stable_volume_summary_on">안정적인 볼륨 메뉴가 숨겨집니다</string>
   <!-- 'Help & feedback' should be translated using the same localized wording YouTube displays for the menu item. -->
-  <string name="morphe_hide_player_flyout_help_title">도움말 &amp; 의견 숨기기</string>
-  <string name="morphe_hide_player_flyout_help_summary_on">도움말 &amp; 의견 메뉴가 숨겨져 있습니다</string>
-  <string name="morphe_hide_player_flyout_help_summary_off">도움말 &amp; 의견 메뉴가 표시됩니다</string>
+  <string name="morphe_hide_player_flyout_help_title">고객센터 숨기기</string>
+  <string name="morphe_hide_player_flyout_help_summary_on">고객센터 메뉴가 숨겨집니다</string>
+  <string name="morphe_hide_player_flyout_help_summary_off">고객센터 메뉴가 표시됩니다</string>
   <!-- 'Playback speed' should be translated using the same localized wording YouTube displays for the menu item. -->
   <string name="morphe_hide_player_flyout_speed_title">재생 속도 숨기기</string>
   <string name="morphe_hide_player_flyout_speed_summary_on">재생 속도 메뉴가 숨겨집니다</string>
@@ -619,7 +620,7 @@ Second \"item\" text"</string>
           'Android No SDK' must be kept untranslated. -->
   <string name="morphe_hide_player_flyout_audio_track_not_available">"오디오 트랙 메뉴가 숨겨집니다
 
-오디오 트랙 메뉴를 표시하려면, '동영상 스트림 변경하기'에서 기본 클라이언트를 iPadOS로 변경하세요"</string>
+오디오 트랙 메뉴를 표시하려면, '동영상 스트림 변경하기'에서 '기본 클라이언트'를 'Android No SDK'로 변경하세요"</string>
   <!-- 'Watch in VR' should be translated using the same localized wording YouTube displays for the menu item. -->
   <string name="morphe_hide_player_flyout_watch_in_vr_title">VR로 보기 숨기기</string>
   <string name="morphe_hide_player_flyout_watch_in_vr_summary_on">VR로 보기 메뉴가 숨겨집니다</string>
@@ -819,7 +820,6 @@ Second \"item\" text"</string>
   <string name="morphe_open_videos_fullscreen_portrait_summary_off">동영상을 전체 화면으로 열지 않습니다</string>
   <!-- layout.player.overlay.customPlayerOverlayOpacityResourcePatch -->
   <string name="morphe_player_overlay_opacity_title">플레이어 오버레이 불투명도</string>
-  <string name="morphe_player_overlay_opacity_summary">0-100 사이의 불투명도 값, 0은 투명</string>
   <string name="morphe_player_overlay_opacity_invalid_toast">플레이어 오버레이 불투명도는 0-100 사이여야 합니다</string>
   <!-- layout.returnyoutubedislike.returnYouTubeDislikePatch -->
   <!-- Brief notification (toast) shown if network connection times out. Translations of this should not be longer than the original English or the text can be clipped and not entirely shown. -->
@@ -1313,8 +1313,8 @@ DeArrow에 대해 자세히 알아보려면 여기를 탭하세요"</string>
   <string name="microg_offline_account_login_error">최근에 계정 로그인 정보를 변경했다면 MicroG를 삭제하고 다시 설치하세요.</string>
   <!-- misc.links.bypassURLRedirectsPatch -->
   <string name="morphe_bypass_url_redirects_title">리다이렉션 없이 링크 바로 열기</string>
-  <string name="morphe_bypass_url_redirects_summary_on">URL 리디렉션이 우회됩니다</string>
-  <string name="morphe_bypass_url_redirects_summary_off">URL 리디렉션이 우회되지 않았습니다.</string>
+  <string name="morphe_bypass_url_redirects_summary_on">앱 내에서 외부 링크를 열 경우에 URL 리다이렉션(youtube.com/redirect)을 거치지 않고 연결됩니다.</string>
+  <string name="morphe_bypass_url_redirects_summary_off">앱 내에서 외부 링크를 열 경우에 URL 리다이렉션(youtube.com/redirect)을 거쳐서 연결됩니다</string>
   <!-- misc.links.openLinksExternallyPatch -->
   <string name="morphe_external_browser_title">외부 브라우저 사용하기</string>
   <string name="morphe_external_browser_summary_on">앱 내에서 외부 링크를 열 경우에 외부 브라우저를 사용합니다</string>
